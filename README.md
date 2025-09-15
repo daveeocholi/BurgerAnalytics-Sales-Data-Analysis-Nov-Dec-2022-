@@ -48,7 +48,7 @@ Built an **Excel Business Performance Dashboard** to visually display:
 ---
 
 ## 📊 Dashboard
-<img width="1248" height="877" alt="sales dashboard" src="https://github.com/user-attachments/assets/d7d6973b-fc62-4049-b433-74b2a6abc604" />
+<img width="1247" height="880" alt="sales dashboard 2" src="https://github.com/user-attachments/assets/5edac6bb-c1df-4f8c-9801-e728dae0258e" />
 
 ---
 
